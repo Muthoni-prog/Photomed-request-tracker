@@ -72,7 +72,7 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/muthoni-prog/request-tracker.git
+git clone https://github.com/muthoni-prog/Photomed-request-tracker.git
 cd request-tracker
 ```
 
