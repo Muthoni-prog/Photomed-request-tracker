@@ -14,7 +14,8 @@ Deployment Link: photomed-request-tracker-two.vercel.app
 
 ## Screenshots
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65e4af39-915c-429d-86ea-2b72087f83ad" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc834f2a-e21a-4cd4-b340-3dd88eecc1f3" />
+
 
 ---
 
