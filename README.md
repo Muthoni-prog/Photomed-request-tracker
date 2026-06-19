@@ -8,13 +8,13 @@ Built as part of a technical assessment.
 
 ## Live Demo
 
-_Deployment in progress — link will be added here once deployed._
+Deployment Link: photomed-request-tracker-two.vercel.app
 
 ---
 
 ## Screenshots
 
-_Add screenshots of your dashboard and form here after deployment._
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65e4af39-915c-429d-86ea-2b72087f83ad" />
 
 ---
 
